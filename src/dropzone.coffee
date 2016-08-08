@@ -162,7 +162,7 @@ class Dropzone extends Emitter
     ignoreHiddenFiles: yes
 
     # Whether to allow directories to be uploaded.
-    acceptDirectories: yes
+    acceptDirectories: false
 
     # You can set accepted mime types here.
     #

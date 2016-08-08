@@ -142,7 +142,7 @@
       params: {},
       clickable: true,
       ignoreHiddenFiles: true,
-      acceptDirectories: true,
+      acceptDirectories: false,
       acceptedFiles: null,
       acceptedMimeTypes: null,
       autoProcessQueue: true,
